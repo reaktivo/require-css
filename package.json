@@ -1,6 +1,6 @@
 {
-  "name": "require-css",
-  "version": "0.1.8",
+  "name": "require-css-alt",
+  "version": "0.2",
   "volo": {
     "type": "directory"
   }
